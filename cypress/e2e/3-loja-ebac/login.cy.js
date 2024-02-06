@@ -11,3 +11,5 @@ cy.get('.woocommerce-from > .button').click()
 
 cy.get('.woocommerce-MyAccount-content > :nth-child(2)').should('contain' , 'Olá, adrielekazoku (nao é adrielekazoku? Sair)')
 })
+
+})         
